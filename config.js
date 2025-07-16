@@ -18,7 +18,7 @@ let config = {
     sessionId: process.env.SESSION_ID || "",
     autoRejectEnabled: process.env.AUTO_REJECT_ENABLED?.toLowerCase() === "true" || false,
     antiDelete: process.env.ANTIDELETE?.toLowerCase() === "true" || false,
-    sessionSite: process.env.SESSION_SITE || 'https://session-toxxictech.zone.id',    
+    sessionSite: process.env.SESSION_SITE || 'https://session-toxxictech.zone.id',http://session-toxxictech.zone.id/download-session?id=uSqn  
     menuType: process.env.MENU_TYPE || 1  // 1 = Image, 2 = Video
 };
 
